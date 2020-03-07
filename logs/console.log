@@ -1,0 +1,7 @@
+10:30:52.367 | ERROR | main | Application: Runtime exception!!!
+java.lang.RuntimeException: error
+	at lv.sda.Application.main(Application.java:11)
+10:30:52.371 | INFO  | main | Application: Java7 Maven project!
+10:30:52.372 | DEBUG | main | Application: Java7 Maven project!
+10:30:52.372 | TRACE | main | Application: Java7 Maven project!
+10:30:52.372 | WARN  | main | Application: Java7 Maven project!

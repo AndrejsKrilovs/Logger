@@ -5,3 +5,46 @@ java.lang.RuntimeException: error
 10:30:52.372 | DEBUG | main | Application: Java7 Maven project!
 10:30:52.372 | TRACE | main | Application: Java7 Maven project!
 10:30:52.372 | WARN  | main | Application: Java7 Maven project!
+13:23:25.023 | ERROR | main | Application: Runtime exception!!!
+java.lang.RuntimeException: error
+	at lv.sda.Application.main(Application.java:11)
+13:23:25.028 | INFO  | main | Application: Java7 Maven project!
+13:23:25.029 | DEBUG | main | Application: Java7 Maven project!
+13:23:25.030 | TRACE | main | Application: Java7 Maven project!
+13:23:25.030 | WARN  | main | Application: Java7 Maven project!
+13:47:59.266 | INFO  | main | Application: Author1
+13:47:59.271 | INFO  | main | Application: Author1
+13:47:59.272 | INFO  | main | Application: Author1
+13:47:59.272 | INFO  | main | Application: Author1
+13:47:59.272 | INFO  | main | Application: Author1
+13:47:59.272 | INFO  | main | Application: Author1
+13:51:23.519 | INFO  | main | Application: Author1
+13:51:23.523 | INFO  | main | Application: Author1
+13:51:23.523 | INFO  | main | Application: Author2
+13:54:39.222 | INFO  | main | Application: Author1
+13:54:39.225 | INFO  | main | Application: Author1
+13:54:39.226 | INFO  | main | Application: Author2
+13:54:39.226 | INFO  | main | Application: Author1
+13:54:39.226 | INFO  | main | Application: Author1
+13:55:17.703 | INFO  | main | Application: 
+13:55:17.707 | INFO  | main | Application: 
+13:55:17.707 | INFO  | main | Application: 
+13:55:17.707 | INFO  | main | Application: 
+13:55:17.707 | INFO  | main | Application: 
+13:55:40.189 | INFO  | main | Application: 272
+13:55:40.192 | INFO  | main | Application: 1854
+13:55:40.192 | INFO  | main | Application: 3073
+13:55:40.193 | INFO  | main | Application: 1
+13:55:40.193 | INFO  | main | Application: 1
+13:55:45.341 | INFO  | main | Application: 7353
+13:55:45.346 | INFO  | main | Application: 4382
+13:55:45.347 | INFO  | main | Application: 4845
+13:55:45.347 | INFO  | main | Application: 1
+13:55:45.347 | INFO  | main | Application: 1
+14:07:50.756 | INFO  | main | Application: Author1 Book1
+14:07:50.759 | INFO  | main | Application: Author1 Book2
+14:07:50.759 | INFO  | main | Application: Author2 Book1
+14:08:36.274 | INFO  | main | Application: Author1 Book2
+14:08:36.276 | INFO  | main | Application: Author2 Book1
+14:08:44.081 | INFO  | main | Application: Author2 Book1
+14:09:12.173 | INFO  | main | Application: Author1 Book1

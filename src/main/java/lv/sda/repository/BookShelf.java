@@ -1,4 +1,4 @@
-package lv.sda;
+package lv.sda.repository;
 
 import java.util.ArrayList;
 import java.util.List;

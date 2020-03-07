@@ -1,4 +1,4 @@
-package lv.sda;
+package lv.sda.repository;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

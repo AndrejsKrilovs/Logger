@@ -1,4 +1,4 @@
-package lv.sda;
+package lv.sda.repository;
 
 public class Book {
     private Long id;
